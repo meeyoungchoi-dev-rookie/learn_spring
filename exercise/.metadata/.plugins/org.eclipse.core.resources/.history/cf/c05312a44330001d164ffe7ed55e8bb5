@@ -1,0 +1,10 @@
+package testproject;
+
+public class MainClass {
+	public static void main(String[] args) {
+//		TransportationWalk transportationWalk = new TransportationWalk();
+//		transportationWalk.move();
+		
+		// spring 컨테이너에 접근하기 위한 방법
+	}
+}

@@ -1,0 +1,9 @@
+package testproject;
+
+public class TransportationWalk {
+	public void move() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
